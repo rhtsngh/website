@@ -2,7 +2,7 @@
 
 This website uses jekyll.
 
-## Submitting Talks
+## Submitting Talks-gud
 
 - Edit \_data/talks.yml
   - You may ignore the slug field, but if you pick something fitting, we'll leave it be
